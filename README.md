@@ -1,6 +1,6 @@
 <!-- Banner / Profile Image -->
 <p align="center">
-  <img src="https://your-image-url-here" alt="Profile Image" width="300"/>
+  <img src="https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif" alt="Profile Image" width="1000"/>
 </p>
 
 # 💫 About Me  
